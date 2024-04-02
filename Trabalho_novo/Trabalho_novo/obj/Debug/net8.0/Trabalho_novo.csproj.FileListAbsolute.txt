@@ -1,0 +1,14 @@
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\bin\Debug\net8.0\Trabalho_novo.exe
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\bin\Debug\net8.0\Trabalho_novo.deps.json
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\bin\Debug\net8.0\Trabalho_novo.runtimeconfig.json
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\bin\Debug\net8.0\Trabalho_novo.dll
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\bin\Debug\net8.0\Trabalho_novo.pdb
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.AssemblyInfoInputs.cache
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.AssemblyInfo.cs
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.csproj.CoreCompileInputs.cache
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.dll
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\refint\Trabalho_novo.dll
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.pdb
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\Trabalho_novo.genruntimeconfig.cache
+C:\Users\vinim\source\repos\Trabalho_novo\Trabalho_novo\obj\Debug\net8.0\ref\Trabalho_novo.dll
